@@ -28,3 +28,5 @@ dim(newData) # a data frame of 2880 by 10
 ## evaluating a variable, so objects in the databse can be accessed by simply 
 ## giving their names.
 attach(newData)
+
+
